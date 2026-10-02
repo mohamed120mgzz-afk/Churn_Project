@@ -279,4 +279,4 @@ LinkedIn: <linkedin.com/in/mohamed-ahmed-22448735a>
 
 ---
 
-*This project is intended for educational and demonstration purposes. Predictions should not be treated as definitive assessments of individual customers or used as the sole basis for consequential banking decisions.*
+* This project is intended for educational and demonstration purposes. Predictions should not be treated as definitive assessments of individual customers or used as the sole basis for consequential banking decisions.*
